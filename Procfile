@@ -1,1 +1,0 @@
-web: pip install . -U && pawel_project-run
