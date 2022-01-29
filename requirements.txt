@@ -3,7 +3,7 @@ pip>=9
 setuptools>=26
 twine
 wheel>=0.29
-#git+ssh://git@github.com/JanKrl/jantest
+git+https://github.com/JanKrl/jantest
 git+ssh://git@github.com/tolyai/packshared
 git+ssh://git@github.com/tomerenshtein/the_greatest_project
 
