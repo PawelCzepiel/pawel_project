@@ -4,8 +4,8 @@ setuptools>=26
 twine
 wheel>=0.29
 git+https://github.com/JanKrl/jantest
-git+ssh://git@github.com/tolyai/packshared
-git+ssh://git@github.com/tomerenshtein/the_greatest_project
+git+https://git@github.com/tolyai/packshared
+git+https://git@github.com/tomerenshtein/the_greatest_project
 
 # data science
 numpy
