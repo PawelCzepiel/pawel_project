@@ -1,6 +1,7 @@
 # pawel_project/lib.py
 
 import datetime
+from termcolor import colored
 
 def try_me():
-    return print(f'THE TIME IS: {datetime.datetime.now().time()}')
+    return print(colored(f'THE TIME IS: {datetime.datetime.now().time()}','red'))
